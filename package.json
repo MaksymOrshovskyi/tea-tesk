@@ -1,6 +1,6 @@
 {
   "name": "tea-hyea",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "test tea",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "ssh://git@github.com/MaksymOrshovskyi/tea-tesk.git"
+    "url": "https://github.com/MaksymOrshovskyi/tea-tesk.git"
   },
   "dependencies": {
     "minti_fulkerson": "0.1.4"
